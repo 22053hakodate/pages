@@ -1,4 +1,4 @@
-![ほげ](./hoge.png)
+![ほげ](./hoge1.jpg)
 
 ほげ[ふが](https://github.com/)ぴよ
 
