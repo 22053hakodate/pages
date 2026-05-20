@@ -1,5 +1,3 @@
-docs/index.md で docs/hoge.png の画像を表示したい場合
-
 ![ほげ](./hoge.png)
 
 ほげ[ふが](https://github.com/)ぴよ
